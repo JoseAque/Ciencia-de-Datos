@@ -6,7 +6,7 @@
 ---
 
 ## 📋 Requisitos  
-### > Python v- [3.10.11](https://www.python.org/downloads/windows/) 
+🔹 **Versión recomendada de Python** → [3.10.11](https://www.python.org/downloads/windows/)  
 - `pip install matplotlib`
 -  `pip install numpy`
 - `pip install scipy`
