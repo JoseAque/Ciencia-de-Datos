@@ -15,3 +15,5 @@
 - `pip install -U scikit-learn`
 - `pip install seaborn`
 - `pip install opencv-python`
+  
+Recursos por el Dr. Enrique Camacho  
